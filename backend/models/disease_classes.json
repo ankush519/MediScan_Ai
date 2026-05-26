@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "Normal",
+    "Pneumonia",
+    "Tuberculosis",
+    "COVID-19",
+    "Bronchitis",
+    "Lung Cancer"
+  ],
+  "num_classes": 6,
+  "model_type": "multi_class_cnn"
+}
